@@ -1,0 +1,8 @@
+/home/meijian/data/calibration/img/2.jpg
+/home/meijian/data/calibration/img/3.jpg
+/home/meijian/data/calibration/img/4.jpg
+/home/meijian/data/calibration/img/5.jpg
+/home/meijian/data/calibration/img/6.jpg
+/home/meijian/data/calibration/img/7.jpg
+/home/meijian/data/calibration/img/8.jpg
+/home/meijian/data/calibration/img/9.jpg
